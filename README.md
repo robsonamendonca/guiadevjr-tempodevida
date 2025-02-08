@@ -19,7 +19,7 @@ O projeto **Tempo de Vida** é um desafio fullstack para iniciantes, onde os par
 - **Backend:** Processa a data informada e retorna o tempo de vida estimado.
 
 ## Plataforma de Mentores
-Os participantes podem tirar dúvidas e obter suporte técnico através da plataforma de mentores: [Linha de Mentores](https://linementors.com.br/).
+SUGESTÃO: Os participantes, que não conseguirem resolver sozinhos, podem acessar a plataforma, cadastrar-se, escolher seu mentor e tirar dúvidas e obter ajuda técnico através do link: [Linha de Mentores](https://linementors.com.br/).
 
 ## Guia para Criar seu README.md
 Cada participante deve criar seu próprio `README.md` dentro de sua branch contendo:
