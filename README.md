@@ -35,3 +35,31 @@ Para ajudar os participantes a obter um retorno financeiro, recomendamos incluir
 ## Contribua e Aprenda!
 Este projeto visa ajudar desenvolvedores iniciantes a praticar e ganhar experiência real em um ambiente colaborativo. Participe e compartilhe sua jornada! 🚀
 
+
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/18629707?v=4"
+    />
+    <p>&nbsp&nbsp&nbspRobson Mendonça<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/robsonamendonca">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+robsonamendonca">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/robsonamendonca_/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Robson Mendonça](https://github.com/robsonamendonca)
