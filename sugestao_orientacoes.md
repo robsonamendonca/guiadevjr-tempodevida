@@ -94,6 +94,35 @@ Este projeto pode ser desenvolvido com qualquer stack, mas sugerimos as seguinte
 ## 📩 Fale Conosco
 Se tiver dúvidas ou quiser compartilhar sua experiência, entre em contato via **LinkedIn** ou participe da nossa comunidade **GuiaDevJr**!
 
-📌 **Autor:** Pedro Augusto De Melo Borges
+📌 **Autor:** Robson Antonio Lima de Mendonça
 📌 **Iniciativa:** GuiaDevJr - Em Busca do Desenvolvimento
+
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/18629707?v=4"
+    />
+    <p>&nbsp&nbsp&nbspRobson Mendonça<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/robsonamendonca">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+robsonamendonca">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/robsonamendonca_/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Robson Mendonça](https://github.com/robsonamendonca)
+
 
